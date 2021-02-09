@@ -6,7 +6,9 @@
 
 ### CSC 101. Fundamentals of Computer Science.
 
-Basic principles of algorithmic problem solving and programming using  methods of top-down design, stepwise refinement and procedural  abstraction.  Basic control structures, data types, and input/output.   Introduction to the software development process:  design,  implementation, testing and documentation.  The syntax and semantics of a modern programming language.  Credit not available for students who  have taken CSC/[CPE 108](http://catalog.calpoly.edu/search/?P=CPE 108).  3 lectures, 1 laboratory.  Crosslisted as CPE/[CSC 101](http://catalog.calpoly.edu/search/?P=CSC 101).
+> Basic principles of algorithmic problem solving and programming using  methods of top-down design, stepwise refinement and procedural  abstraction.  Basic control structures, data types, and input/output.   Introduction to the software development process:  design,  implementation, testing and documentation.  The syntax and semantics of a modern programming language. 
+
+* **Programming Language:** Python
 
 ### CSC 123. Introduction to Computing: Creating IOS Apps
 
