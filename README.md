@@ -4,7 +4,7 @@
 
 ## Currently Studying
 
-* CompTIA Network+ Exam (N10-007)
+* CompTIA Network+ Exam (N10-007) (start: 04/29)
 
 ## Projects
 
