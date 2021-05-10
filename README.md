@@ -2,6 +2,10 @@
 
 * [course history](./courses.md)
 
+## Currently Studying
+
+* CompTIA Network+ Exam (N10-007)
+
 <!--
 **BetoBob/BetoBob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
