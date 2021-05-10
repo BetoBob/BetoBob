@@ -1,6 +1,9 @@
 # Robert Hesnely
 
-* [course history](./courses.md)
+Computer Science graduate, currently looking for software developer roles or IT roles.
+
+* BS Computer Science - California Polytechnic State University at San Luis Obispo (September 2016 - December 2020) 
+  * [Course History](./courses.md)
 
 ## Currently Studying
 
@@ -8,7 +11,7 @@
 
 ## Projects
 
-| Projects                                                     | Skills                                               |
+| Project                                                     | Skills                                               |
 | ------------------------------------------------------------ | ---------------------------------------------------- |
 | [Yelp Map App](https://github.com/BetoBob/Yelp-ShinyApp)     | R, HTML, CSS, OpenStreetMap                          |
 | [NLTK Book Resource](https://github.com/BetoBob/NLTK-Book-Resource-Group) | Python, NLTK, NLP, Jupyter Notebooks, HTML           |
