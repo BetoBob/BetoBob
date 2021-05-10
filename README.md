@@ -8,6 +8,7 @@ Computer Science graduate, currently looking for software developer roles or IT 
 ## Currently Studying
 
 * CompTIA Network+ Exam (N10-007) (start: 04/29)
+* Portuguese (A1)
 
 ## Projects
 
