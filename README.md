@@ -9,6 +9,8 @@ Computer Science graduate, currently looking for software developer roles or IT 
 
 * CompTIA Network+ Exam (N10-007)
 * VueJS
+  * studying to understand reactive frameworks better
+  * also want to learn a front end framework to demo some back-end projects I have worked on
 * Portuguese (A2)
 
 ## Projects
