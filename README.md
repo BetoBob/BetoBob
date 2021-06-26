@@ -24,6 +24,10 @@ Computer Science graduate, currently looking for software developer roles or IT 
 | [C Projects](https://github.com/BetoBob/C-Projects)          | C, Bash Scripting, Operating Systems, Unix, Networks |
 | [Gowalla Network Analysis](https://github.com/BetoBob/Gowalla-Network-Analysis) | Python, Open Street Map, Network Analysis            |
 
+### Selenium Projects
+* [PolyRatings Collection (65,000 pages retrieved)](https://github.com/BetoBob/PolyRatings-Analysis/blob/master/collection.ipynb)
+* [NN Simulator Runner](https://github.com/BetoBob/NN_Toy/blob/master/Toy%20Neural%20Network.ipynb)
+* [Minesweeper Bot](https://github.com/BetoBob/Minsweeper-Bot)
 
 
 <!--
