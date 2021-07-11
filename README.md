@@ -5,14 +5,6 @@ Computer Science graduate, currently looking for software developer roles or IT 
 * BS Computer Science - California Polytechnic State University at San Luis Obispo (September 2016 - December 2020) 
   * [Course History](./courses.md)
 
-## Currently Studying
-
-* CompTIA Network+ Exam (N10-007)
-* VueJS
-  * studying to understand reactive frameworks better
-  * also want to learn a front end framework to demo some back-end projects I have worked on
-* Portuguese (A2)
-
 ## Projects
 
 | Project                                                     | Skills                                               |
